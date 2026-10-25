@@ -1,0 +1,11 @@
+{
+  "id": "18850101",
+  "company": "GARMIN CLUJ SRL",
+  "brand": "Garmin",
+  "status": "activ",
+  "location": ["Cluj-Napoca"],
+  "website": ["https://www.garmin.com/ro-RO"],
+  "career": ["https://apply.workable.com/garmin-cluj/"],
+  "scraperFile": "https://github.com/peviitor-scrapers/garmin-cluj-nodejs-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/"
+}
