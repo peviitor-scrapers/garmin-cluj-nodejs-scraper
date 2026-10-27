@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (26)
+## Current Job Listings (25)
 
-_Generated: 2026-10-26T11:49:20.599Z_
+_Generated: 2026-10-27T11:14:33.195Z_
 
 ### .NET Software Engineer | Backend focus | inReach
 
@@ -180,13 +180,6 @@ _Generated: 2026-10-26T11:49:20.599Z_
 ### Team Leader Software Engineering | Java | Garmin Connect
 
 - **URL:** [https://apply.workable.com/j/0CCA4DB94D](https://apply.workable.com/j/0CCA4DB94D)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Team Leader Software Engineering | Mobile | Garmin Connect
-
-- **URL:** [https://apply.workable.com/j/82B8A72576](https://apply.workable.com/j/82B8A72576)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
