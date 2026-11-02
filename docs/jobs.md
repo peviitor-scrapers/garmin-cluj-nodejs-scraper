@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
 ## Current Job Listings (24)
 
-_Generated: 2026-11-01T12:15:58.647Z_
+_Generated: 2026-11-02T14:07:48.569Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -37,7 +37,7 @@ _Generated: 2026-11-01T12:15:58.647Z_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### C++ Software Engineer | Marine | 2 roles
+### C++ Software Engineer | Marine
 
 - **URL:** [https://apply.workable.com/j/3FBA1085E2](https://apply.workable.com/j/3FBA1085E2)
 - **Work Mode:** on-site
