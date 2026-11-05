@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (24)
+## Current Job Listings (23)
 
-_Generated: 2026-11-04T13:27:53.817Z_
+_Generated: 2026-11-05T13:41:00.199Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -33,13 +33,6 @@ _Generated: 2026-11-04T13:27:53.817Z_
 ### Business Analyst | eCommerce team
 
 - **URL:** [https://apply.workable.com/j/EEF74FCE7B](https://apply.workable.com/j/EEF74FCE7B)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### C++ Software Engineer | Marine
-
-- **URL:** [https://apply.workable.com/j/3FBA1085E2](https://apply.workable.com/j/3FBA1085E2)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
@@ -91,6 +84,13 @@ _Generated: 2026-11-04T13:27:53.817Z_
 - **URL:** [https://apply.workable.com/j/E1ED5FCC7D](https://apply.workable.com/j/E1ED5FCC7D)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Sales Administrator
+
+- **URL:** [https://apply.workable.com/j/94E790D5E8](https://apply.workable.com/j/94E790D5E8)
+- **Work Mode:** on-site
+- **Location:** Bucharest
 - **Status:** scraped
 
 ### Senior Business Analyst | Subscriptions Team
@@ -166,13 +166,6 @@ _Generated: 2026-11-04T13:27:53.817Z_
 ### Staff Systems Engineer | Automotive
 
 - **URL:** [https://apply.workable.com/j/10915F8F3B](https://apply.workable.com/j/10915F8F3B)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Team Leader Software Engineering | Java | Garmin Connect
-
-- **URL:** [https://apply.workable.com/j/0CCA4DB94D](https://apply.workable.com/j/0CCA4DB94D)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
