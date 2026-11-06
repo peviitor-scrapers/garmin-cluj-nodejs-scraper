@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (23)
+## Current Job Listings (25)
 
-_Generated: 2026-11-05T13:41:00.199Z_
+_Generated: 2026-11-06T13:25:21.138Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -100,6 +100,13 @@ _Generated: 2026-11-05T13:41:00.199Z_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
+### Senior Full Stack Software Engineer (TypeScript & Java) | Core Team
+
+- **URL:** [https://apply.workable.com/j/21AAAE02D5](https://apply.workable.com/j/21AAAE02D5)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
 ### Senior Full-Stack (React & .NET) Software Engineer | 3 roles
 
 - **URL:** [https://apply.workable.com/j/24A4540298](https://apply.workable.com/j/24A4540298)
@@ -166,6 +173,13 @@ _Generated: 2026-11-05T13:41:00.199Z_
 ### Staff Systems Engineer | Automotive
 
 - **URL:** [https://apply.workable.com/j/10915F8F3B](https://apply.workable.com/j/10915F8F3B)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Team Lead Software Engineering (TypeScript & Java) | Core Team
+
+- **URL:** [https://apply.workable.com/j/E0FDC3F770](https://apply.workable.com/j/E0FDC3F770)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
