@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-14 |
+| Last Scraped | 2026-11-15 |
 
 ## Current Job Listings (24)
 
-_Generated: 2026-11-14T12:41:32.980Z_
+_Generated: 2026-11-15T13:07:58.425Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
