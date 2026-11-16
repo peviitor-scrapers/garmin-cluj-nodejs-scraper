@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (24)
+## Current Job Listings (23)
 
-_Generated: 2026-11-15T13:07:58.425Z_
+_Generated: 2026-11-16T14:14:07.229Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -117,13 +117,6 @@ _Generated: 2026-11-15T13:07:58.425Z_
 ### Senior iOS Software Engineer | Garmin Connect Team
 
 - **URL:** [https://apply.workable.com/j/EDF1DCACB2](https://apply.workable.com/j/EDF1DCACB2)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior iOS Software Engineer | Marine
-
-- **URL:** [https://apply.workable.com/j/7A53D9AD7A](https://apply.workable.com/j/7A53D9AD7A)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
