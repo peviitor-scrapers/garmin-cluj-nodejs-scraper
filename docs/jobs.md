@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
-## Current Job Listings (22)
+## Current Job Listings (21)
 
-_Generated: 2026-11-17T15:06:51.079Z_
+_Generated: 2026-11-18T14:46:41.983Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -86,7 +86,7 @@ _Generated: 2026-11-17T15:06:51.079Z_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### Sales Administrator
+### Sales Operations Specialist
 
 - **URL:** [https://apply.workable.com/j/94E790D5E8](https://apply.workable.com/j/94E790D5E8)
 - **Work Mode:** on-site
@@ -124,13 +124,6 @@ _Generated: 2026-11-17T15:06:51.079Z_
 ### Senior Linux Systems Administrator | Cloud Team
 
 - **URL:** [https://apply.workable.com/j/4ABAF731D3](https://apply.workable.com/j/4ABAF731D3)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Site Reliability Engineer | Cloud Team
-
-- **URL:** [https://apply.workable.com/j/DFA2BC0F37](https://apply.workable.com/j/DFA2BC0F37)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
