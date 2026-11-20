@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (19)
+## Current Job Listings (20)
 
-_Generated: 2026-11-19T14:52:40.727Z_
+_Generated: 2026-11-20T14:36:31.828Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -117,6 +117,13 @@ _Generated: 2026-11-19T14:52:40.727Z_
 ### Site Reliability Engineer | DevSecOps Team
 
 - **URL:** [https://apply.workable.com/j/1252453CFA](https://apply.workable.com/j/1252453CFA)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Software Quality Engineer | ERP Team
+
+- **URL:** [https://apply.workable.com/j/4274AA315B](https://apply.workable.com/j/4274AA315B)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
