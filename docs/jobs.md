@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (20)
+## Current Job Listings (19)
 
-_Generated: 2026-11-24T16:41:32.005Z_
+_Generated: 2026-11-25T16:24:54.677Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -84,13 +84,6 @@ _Generated: 2026-11-24T16:41:32.005Z_
 - **URL:** [https://apply.workable.com/j/307294B606](https://apply.workable.com/j/307294B606)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Sales Support Administrator
-
-- **URL:** [https://apply.workable.com/j/94E790D5E8](https://apply.workable.com/j/94E790D5E8)
-- **Work Mode:** on-site
-- **Location:** Bucharest
 - **Status:** scraped
 
 ### Senior Full Stack Software Engineer (TypeScript & Java) | Core Team
