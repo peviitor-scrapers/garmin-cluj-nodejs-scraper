@@ -7,14 +7,14 @@
 | CIF | 18850101 |
 | Brand | Garmin |
 | Status | activ |
-| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.3,4,5,6 |
+| Location | Cluj-Napoca |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (20)
 
-_Generated: 2026-11-26T15:59:04.936Z_
+_Generated: 2026-11-27T15:47:51.303Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
@@ -79,7 +79,7 @@ _Generated: 2026-11-26T15:59:04.936Z_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### Product Designer Team Leader
+### Product Design Team Leader
 
 - **URL:** [https://apply.workable.com/j/A20D5944B6](https://apply.workable.com/j/A20D5944B6)
 - **Work Mode:** on-site
