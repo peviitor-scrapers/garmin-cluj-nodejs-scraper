@@ -10,11 +10,11 @@
 | Location | Cluj-Napoca |
 | Website | [https://www.garmin.com/ro-RO](https://www.garmin.com/ro-RO) |
 | Careers | [https://apply.workable.com/garmin-cluj/](https://apply.workable.com/garmin-cluj/) |
-| Last Scraped | 2026-11-27 |
+| Last Scraped | 2026-11-28 |
 
 ## Current Job Listings (20)
 
-_Generated: 2026-11-27T15:47:51.303Z_
+_Generated: 2026-11-28T14:43:16.510Z_
 
 ### Android Software Engineer | Garmin Connect Team
 
